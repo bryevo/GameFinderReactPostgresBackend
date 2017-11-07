@@ -1,0 +1,25 @@
+{
+  "name": "gamedb",
+  "version": "1.0.0",
+  "description": "node express server for react postgres game project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "pg": "^7.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryevo/ReactPostgresBackend.git"
+  },
+  "author": "Brian vo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryevo/ReactPostgresBackend/issues"
+  },
+  "homepage": "https://github.com/bryevo/ReactPostgresBackend#readme"
+}
